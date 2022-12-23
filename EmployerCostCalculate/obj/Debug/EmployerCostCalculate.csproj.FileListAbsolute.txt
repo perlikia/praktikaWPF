@@ -1,0 +1,5 @@
+D:\FWEFWEF\EmployerCostCalculate\bin\Debug\EmployerCostCalculate.dll
+D:\FWEFWEF\EmployerCostCalculate\bin\Debug\EmployerCostCalculate.pdb
+D:\FWEFWEF\EmployerCostCalculate\obj\Debug\EmployerCostCalculate.csproj.CoreCompileInputs.cache
+D:\FWEFWEF\EmployerCostCalculate\obj\Debug\EmployerCostCalculate.dll
+D:\FWEFWEF\EmployerCostCalculate\obj\Debug\EmployerCostCalculate.pdb
